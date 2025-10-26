@@ -1,0 +1,6 @@
+lat,lon,hazard_type,severity,status,reported_by,timestamp
+28.6139,77.209,Fire,High,Active,Safety Team,2025-10-25 10:00:00.000000
+19.076,72.8777,Chemical Leak,Critical,Contained,Manager B,2025-10-24 14:30:00.000000
+12.9716,77.5946,Equipment Failure,Medium,Active,Worker A,2025-10-25 09:15:00.000000
+22.5726,88.3639,Structural Risk,High,Pending,Safety Team,2025-10-23 17:00:00.000000
+20.643700000000006,78.89289999999997,Equipment Failure,Critical,Active,worker,2025-10-26 22:40:26.529064
